@@ -1,4 +1,4 @@
-# Bitcoin & Lightning Network Logos
+# Awesome Bitcoin Logos
 
 A collection of Bitcoin and Lightning Network FOSS program logos.
 
