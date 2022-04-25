@@ -1,6 +1,6 @@
 # Bitcoin & Lightning Network Logos
 
-A collection of Bitcoin and Lightning Network logos.
+A collection of Bitcoin and Lightning Network program logos.
 
 ### Use case example
 
