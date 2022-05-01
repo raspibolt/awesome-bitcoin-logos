@@ -6,7 +6,7 @@ A collection of Bitcoin and Lightning Network FOSS program logos.
 
 Create and personalize a Homer homepage with logos for all your Bitcoin self-hosted web services:
 * [Homer install guide on the RaspiBolt](https://raspibolt.org/bonus/raspberry-pi/homer.md)
-* [Logos of self-hosted web services only](#self-hosted-web-services)
+* [Logos of self-hosted web services only](#self-hosted-web-services-only)
 
 ---
 
@@ -16,6 +16,6 @@ Create and personalize a Homer homepage with logos for all your Bitcoin self-hos
 
 ---
 
-## Self-hosted web services
+## Self-hosted web services only
 
 <img src="png/bitcoin-minds.png" alt="Bitcoin Minds" width="100"> <img src="png/bitcoin-only.png" alt="Bitcoin Only" width="100"> <img src="png/bitfeed.png" alt="Bitfeed" width="100"> <img src="png/btcpay-server.png" alt="BTCPay Server" width="100"> <img src="png/btcrpcexplorer.png" alt="BTC RPC Explorer" width="100"> <img src="png/jam.png" alt="Jam" width="100"> <img src="png/lightning-terminal.png" alt="Lightning Terminal" width="100"> <img src="png/lnbits.png" alt="LNBits" width="100"> <img src="png/lndg.png" alt="LNDg" width="100"> <img src="png/mempool.png" alt="Mempool" width="100"> <img src="png/rtl.png" alt="Ride The Lightning" width="100"> <img src="png/satsale.png" alt="Satsale" width="100"> <img src="png/thunderhub.png" alt="ThunderHub" width="100">
